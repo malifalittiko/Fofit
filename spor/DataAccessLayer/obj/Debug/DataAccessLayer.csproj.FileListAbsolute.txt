@@ -1,0 +1,9 @@
+C:\Users\malif\source\repos\spor\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\malif\source\repos\spor\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\malif\source\repos\spor\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\malif\source\repos\spor\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\malif\source\repos\spor\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\malif\source\repos\spor\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\malif\source\repos\spor\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\malif\source\repos\spor\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\malif\source\repos\spor\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\malif\source\repos\spor\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\malif\source\repos\spor\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\malif\source\repos\spor\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\malif\source\repos\spor\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\malif\source\repos\spor\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\malif\source\repos\spor\EntityLayer\obj\Debug\EntityLayer.pdb
